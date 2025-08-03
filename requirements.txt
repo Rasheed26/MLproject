@@ -1,0 +1,7 @@
+pandas
+numpy
+seaborn
+
+# we want requirments to run whenever new oackage in brought
+
+-e .
