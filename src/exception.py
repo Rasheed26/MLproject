@@ -1,6 +1,9 @@
 # Read exception handling in python documentation on https://docs.python.org/3/tutorial/errors.html
 import sys
 
+from src.logger import logging #importing the logging module from logger.py for logging the error messages
+
+
 
 #creating a function to get the error message details
 def error_message_detail(error,error_detail:sys):
