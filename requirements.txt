@@ -5,6 +5,7 @@ matplotlib
 scikit-learn
 xgboost
 catboost
+dill
 # I have added xgboost package for model training and evaluation
 # we want requirments to run whenever new oackage in brought
 
